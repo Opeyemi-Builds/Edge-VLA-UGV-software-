@@ -169,7 +169,7 @@ This project deliberately starts narrow: one platform, one core capability ("go 
 
 ## Author
 
-Maintained by **[Your Name]** — built as a personal/cohort project exploring edge robotics, perception, and language-grounded autonomy.
+Maintained by **[Alegbeleye Opeyemi]** — built as a personal/cohort project exploring edge robotics, perception, and language-grounded autonomy.
 
 ## License
 
